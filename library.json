@@ -1,0 +1,142 @@
+[
+    {
+        "title": "to kill a mockingbird",
+        "author": "harper lee",
+        "publication_year": 1960,
+        "genre": "fiction",
+        "is_read": true
+    },
+    {
+        "title": "1984",
+        "author": "george orwell",
+        "publication_year": 1949,
+        "genre": "dystopian",
+        "is_read": true
+    },
+    {
+        "title": "the great gatsby",
+        "author": "f. scott fitzgerald",
+        "publication_year": 1925,
+        "genre": "fiction",
+        "is_read": false
+    },
+    {
+        "title": "moby dick",
+        "author": "herman melville",
+        "publication_year": 1851,
+        "genre": "adventure",
+        "is_read": false
+    },
+    {
+        "title": "pride and prejudice",
+        "author": "jane austen",
+        "publication_year": 1813,
+        "genre": "romance",
+        "is_read": true
+    },
+    {
+        "title": "the catcher in the rye",
+        "author": "j.d. salinger",
+        "publication_year": 1951,
+        "genre": "fiction",
+        "is_read": false
+    },
+    {
+        "title": "the hobbit",
+        "author": "j.r.r. tolkien",
+        "publication_year": 1937,
+        "genre": "fantasy",
+        "is_read": true
+    },
+    {
+        "title": "war and peace",
+        "author": "leo tolstoy",
+        "publication_year": 1869,
+        "genre": "historical",
+        "is_read": false
+    },
+    {
+        "title": "crime and punishment",
+        "author": "fyodor dostoevsky",
+        "publication_year": 1866,
+        "genre": "psychological fiction",
+        "is_read": true
+    },
+    {
+        "title": "the odyssey",
+        "author": "homer",
+        "publication_year": -800,
+        "genre": "epic",
+        "is_read": false
+    },
+    {
+        "title": "brave new world",
+        "author": "aldous huxley",
+        "publication_year": 1932,
+        "genre": "dystopian",
+        "is_read": true
+    },
+    {
+        "title": "the iliad",
+        "author": "homer",
+        "publication_year": -750,
+        "genre": "epic",
+        "is_read": false
+    },
+    {
+        "title": "frankenstein",
+        "author": "mary shelley",
+        "publication_year": 1818,
+        "genre": "gothic fiction",
+        "is_read": true
+    },
+    {
+        "title": "wuthering heights",
+        "author": "emily bronte",
+        "publication_year": 1847,
+        "genre": "gothic fiction",
+        "is_read": false
+    },
+    {
+        "title": "the divine comedy",
+        "author": "dante alighieri",
+        "publication_year": 1320,
+        "genre": "epic poetry",
+        "is_read": false
+    },
+    {
+        "title": "the picture of dorian gray",
+        "author": "oscar wilde",
+        "publication_year": 1890,
+        "genre": "philosophical fiction",
+        "is_read": true
+    },
+    {
+        "title": "don quixote",
+        "author": "miguel de cervantes",
+        "publication_year": 1605,
+        "genre": "adventure",
+        "is_read": false
+    },
+    {
+        "title": "les mis\u00c3\u00a9rables",
+        "author": "victor hugo",
+        "publication_year": 1862,
+        "genre": "historical",
+        "is_read": true
+    },
+    {
+        "title": "the brothers karamazov",
+        "author": "fyodor dostoevsky",
+        "publication_year": 1880,
+        "genre": "philosophical fiction",
+        "is_read": false
+    },
+    {
+        "title": "the count of monte cristo",
+        "author": "alexandre dumas",
+        "publication_year": 1844,
+        "genre": "adventure",
+        "is_read": true
+    }
+]
